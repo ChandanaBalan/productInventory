@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "IPhone",
+      "category": "Mobile phones",
+      "price": "78000/-",
+      "stock": "39",
+      "description": "Mobile phone for sale",
+      "id": 1
+    },
+    {
+      "name": "samsung",
+      "category": "television",
+      "price": "130000",
+      "stock": "100",
+      "description": "Samsung latest tv",
+      "id": 2
+    },
+    {
+      "name": "jgfg",
+      "category": "gvu",
+      "price": "6756",
+      "stock": "ufuy",
+      "description": "sxdcfgvbhnj",
+      "id": 3
+    },
+    {
+      "name": "sfds",
+      "category": "sdgvg",
+      "price": "3435",
+      "stock": "dfbdfdfg",
+      "description": "rdfgsd",
+      "id": 4
+    }
+  ]
+}
